@@ -7,3 +7,4 @@
 *.pyc
 *.tsv
 *tfevents
+catboost_info
